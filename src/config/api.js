@@ -1,1 +1,1 @@
-export const API_BASE_URL = "http://backend-crud-apis.test";
+export const API_BASE_URL = "protfolio-backend-production-2119.up.railway.app";

@@ -115,7 +115,7 @@
   <!-- Projects Section -->
   <section id="work" class="py-20 bg-white">
     <div class="max-w-6xl mx-auto px-4">
-      <h2 class="text-3xl font-bold text-center mb-14">Highlighted Projects</h2>
+      <h2 class="text-3xl font-bold text-center mb-14">Some Projects</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
         <a href="https://github.com/nisar-ahmad-khan/role-based-authentication" target="_blank" class="group">
           <div class="bg-gray-50 p-6 rounded-xl shadow hover:shadow-2xl transition duration-300">
