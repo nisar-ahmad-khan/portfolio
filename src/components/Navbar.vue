@@ -20,7 +20,7 @@
         </div>
 
         <!-- Mobile Menu Button -->
-        <div class="md:hidden flex items-center">
+        <div class="md:hidden flex items-center hover:cursor-pointer">
           <button id="menu-button" class="text-gray-700 focus:outline-none">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2"
               viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
