@@ -70,7 +70,7 @@
     <div class="max-w-7xl mx-auto px-4 text-center">
       <h1 class="text-4xl md:text-5xl font-bold mb-4">Hi, I'm Nisar Ahmad</h1>
       <p class="text-lg mb-8 max-w-2xl mx-auto">
-        "I’m a Full Stack Web Developer from Pakistan, specializing in Vue.js for frontend development, Laravel for backend systems, and Tailwind CSS for sleek, responsive design. I build fast, secure, and modern web applications. Currently, I’m working as an intern at NBTHub, gaining hands-on experience in real-world projects.
+        "I’m a Full Stack Web Developer from Pakistan, specializing in Vue.js for frontend development, Laravel for backend systems, and Tailwind CSS for sleek, responsive design. I build fast, secure, and modern web applications. Currently, I’m working as an intern at NBTHUB, gaining hands-on experience in real-world projects.
       </p>
       <a href="#work">
         <button class="px-6 py-3 bg-white text-indigo-600 font-semibold rounded-lg shadow-lg hover:bg-gray-100 transition">
