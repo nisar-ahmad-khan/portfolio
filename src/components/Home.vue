@@ -66,7 +66,7 @@
 
   <div class="bg-white text-gray-800">
   <!-- Hero Section -->
-  <section class="bg-gradient-to-r from-indigo-500 to-purple-600 text-white py-20">
+  <section class="bg-gradient-to-r from-green-500 to-purple-600 text-white py-20">
     <div class="max-w-7xl mx-auto px-4 text-center">
       <h1 class="text-4xl md:text-5xl font-bold mb-4">Hi, I'm Nisar Ahmad</h1>
       <p class="text-lg mb-8 max-w-2xl mx-auto">
